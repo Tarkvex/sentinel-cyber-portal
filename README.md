@@ -54,7 +54,7 @@
 
 ## project structure 
 
-![project file structure ](images)
+![project file structure ](images/diagram.png)
 
 ## 📁 Project Structure
 
